@@ -1,0 +1,1 @@
+# -installed-on-ubuntu-16.04-django-1.11-usinf-pip3-and-then-installed-the-oracle-mysql-connector-pyth
